@@ -7,4 +7,4 @@
 * Deleting a pet
 * Checking if deletion was successfull 
 
-[http://petstore.swagger.io]
+[Link](http://petstore.swagger.io)
