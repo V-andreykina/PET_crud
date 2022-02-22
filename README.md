@@ -1,4 +1,10 @@
 # PET_crud
 ***
-## Creating and updating pet
-[http://petstore.swagger.io]
+* Creating a new pet
+* Checking if a pet was created
+* Updating information about a pet
+* Checking if the information was updated
+* Deleting a pet
+* Checking if deletion was successfull 
+
+[Link](http://petstore.swagger.io)
